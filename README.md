@@ -12,7 +12,7 @@ Tem experiência em todos os aspectos de desenvolvimento web e é especializado 
 
 Will supervisionou o desenvolvimento criativo e execução de mais de 100 projetos para algumas das principais empresas do mundo, incluindo Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC e Peugeot.
 
-Especialidades técnicas: HTML5, CSS3, JQuery, Angular, Vue, IONIC, JavaScript, After Effects etc...
+Especialidades técnicas: HTML5, CSS3, JQuery, React, Vue, Angular, Vue, IONIC, JavaScript, After Effects etc...
 
 ///////
 
@@ -20,4 +20,4 @@ Wiliam De Schepper is a creative developer at FLOAT HEALTH, McCCANN HEALTH, CEO 
 
 Will has overseen the creative development and execution of over 100 projects for some of the world’s leading companies, including Coke, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC, Peugeot.
 
-Technical specialties: HTML5, CSS3, JQuery, Angular, JavaScript Development, After Effects an Front-End Development.
+Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Development, After Effects an Front-End Development.
