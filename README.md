@@ -9,8 +9,16 @@ CEO @4rweb.
   </a>
 </div>
 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
 
-<p> <img width="49.5%" src="https://komarev.com/ghpvc/?username=4rweb&label=Profile%20views&color=0e75b6&style=flat" alt="4rweb" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=4rweb&label=Profile%20views&color=0e75b6&style=flat" alt="4rweb" /> </p>
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@4rweb-2986cc?style=flat-square&labelColor=2986cc&logo=twitter&logoColor=white&link=https://twitter.com/4rweb)](https://twitter.com/4rweb) 
@@ -49,5 +57,8 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=4rweb&theme=gruvbox&hide_border=true" alt="4rweb" />
   </p>
 <br>
+
+
+[![Will Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rweb&custom_title=Will%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://4rweb.net)
 
 
