@@ -30,20 +30,17 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rweb&show_icons=true&locale=en&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="4rweb" /></p>
 </p>
 
-
 ## My Statistics
 
 <br/>
   <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=4rweb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="4rweb" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=4rweb&theme=tokyonight&hide_border=true" alt="4rweb" />/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=4rweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="4rweb" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=4rweb&theme=tokyonight&hide_border=false" alt="4rweb" />/>
   </p>
 <br>
 
 
 [![Will Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rweb&custom_title=Will%20Trips's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=4rweb&label=Profile%20views&color=0e75b6&style=flat" alt="4rweb" /> </p>
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
