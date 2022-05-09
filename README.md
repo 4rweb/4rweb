@@ -40,7 +40,7 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 <br>
 
 
-![Will Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rweb&custom_title=Will%20Trips's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Will Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rweb&custom_title=Will%20Trips's%20Contribution%20Graph&theme=tokyonight&bg_color=1a1b27&hide_border=true&line=628fdb&point=be91f2)
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
