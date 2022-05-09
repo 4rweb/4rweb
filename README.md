@@ -35,7 +35,7 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 <br/>
   <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=4rweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="4rweb" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=4rweb&theme=tokyonight&hide_border=true" alt="4rweb" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=4rweb&theme=tokyonight&hide_border=false" alt="4rweb" />
   </p>
 <br>
 
