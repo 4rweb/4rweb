@@ -13,7 +13,7 @@ CEO @4rweb.
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-98b982?style=for-the-badge&logo=react&logoColor=98b982&labelColor=282828">
 </div>
 </p>
 
@@ -59,6 +59,6 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 <br>
 
 
-[![Will Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rweb&custom_title=Will%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://4rweb.net)
+[![Will Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rweb&custom_title=Will%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 
