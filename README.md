@@ -30,8 +30,6 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rweb&show_icons=true&locale=en&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="4rweb" /></p>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rweb" />
-
 ## My Statistics
 
 <br/>
