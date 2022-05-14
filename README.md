@@ -49,7 +49,7 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 [![](https://visitcount.itsvg.in/api?id=4rweb&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ## My Gitlab Statistics
-<img align="center" src="https://raw.githubusercontent.com/4rweb/rinnovaweb-intro/main/gitlab.png" width="100%"/>
+<img align="center" src="https://raw.githubusercontent.com/4rweb/rinnovaweb-intro/main/gitlab2.png" width="100%"/>
 
 ## My Github Pages
 https://4rweb.github.io/cardapio-kinpai-facebook/ <br>
