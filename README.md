@@ -51,6 +51,8 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 
 ## My Gitlab Statistics
 <img align="center" src="https://raw.githubusercontent.com/4rweb/rinnovaweb-intro/main/gitlab2.png" width="100%"/>
+<p>*Não consegui trazer alguns projetos do gitlab para github, então print do meu Contributions no Gitlab<p>
+
 
 ## My Github Pages
 https://4rweb.github.io/cardapio-kinpai-facebook/ <br>
