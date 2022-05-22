@@ -50,7 +50,7 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 
 ## My Gitlab Statistics
 <img align="center" src="https://raw.githubusercontent.com/4rweb/rinnovaweb-intro/main/gitlab2.png" width="100%"/>
-<small>*Não consegui trazer alguns projetos do gitlab para github, então print do meu Contributions no Gitlab<small>
+<small>*Não consegui trazer alguns projetos do GitLab para Github, então printei meu Contributions no Gitlab<small>
 
 
 ## My Github Pages
