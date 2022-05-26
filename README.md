@@ -54,18 +54,27 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 
 
 ## My Github Pages
-https://luz-nextjs.vercel.app/ <br>
-https://sis-float.vercel.app/#/admin/dashboard <br>
-https://blathy.vercel.app/ <br>
-  
+
 https://4rweb.github.io/cardapio-kinpai-facebook/ <br>
 https://4rweb.github.io/web-studio-advanced/ <br>
 https://4rweb.github.io/rinnovaweb-intro/ <br>
 https://4rweb.github.io/LeKarmaMobile/ <br>
 https://4rweb.github.io/LeKarmaApp/ <br>
-https://4rweb.github.io/MuMuGenerator/ <br>
 https://4rweb.github.io/
-
+  
+## React Projects
+https://luz-nextjs.vercel.app/ <br>
+https://sis-float.vercel.app/#/admin/dashboard <br>
+https://blathy.vercel.app/ <br>
+https://mumu-generator.vercel.app/
+  
+## Angular
+https://fibromialgiadiagnostico.com.br/ <br>
+  
+## Vue
+https://www.4rweb.net <br>
+  
+  
 ## Oficial Site
 https://www.4rweb.net
   
