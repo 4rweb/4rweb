@@ -14,7 +14,7 @@ Will supervisionou o desenvolvimento criativo e execução de mais de 100 projet
 
 Especialidades técnicas: HTML5, CSS3, JQuery, React, Vue, Angular, Vue, IONIC, JavaScript, After Effects etc...
 
-///////
+/////////////////////
 
 Wiliam De Schepper is a creative developer at FLOAT HEALTH, McCCANN HEALTH, CEO of 4RWeb Interactive. He has experience in all aspects of web development and specializes in Front-End, interactive Design, UI/UX, Motion Graphics, 3D Animation and video production.
 
