@@ -74,6 +74,11 @@ https://fibromialgiadiagnostico.com.br/ <br>
 ## Vue
 https://www.4rweb.net <br>
   
+## JQuery
+https://www.programaviva.com.br/ <br>
+https://receitadevida.com.br/ <br>
+https://www.grupoalmah.com.br  <br>
+http://rjvideo.com.br/
   
 ## Oficial Site
 https://www.4rweb.net
