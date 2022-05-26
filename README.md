@@ -62,7 +62,7 @@ https://4rweb.github.io/LeKarmaMobile/ <br>
 https://4rweb.github.io/LeKarmaApp/ <br>
 https://4rweb.github.io/
   
-## React Projects
+## React
 https://luz-nextjs.vercel.app/ <br>
 https://sis-float.vercel.app/#/admin/dashboard <br>
 https://blathy.vercel.app/ <br>
