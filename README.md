@@ -53,15 +53,6 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 <small>*Não consegui trazer alguns projetos do GitLab para Github, então printei meu Contributions no Gitlab<small>
 
 
-## My Github Pages
-
-https://4rweb.github.io/cardapio-kinpai-facebook/ <br>
-https://4rweb.github.io/web-studio-advanced/ <br>
-https://4rweb.github.io/rinnovaweb-intro/ <br>
-https://4rweb.github.io/LeKarmaMobile/ <br>
-https://4rweb.github.io/LeKarmaApp/ <br>
-https://4rweb.github.io/
-  
 ## React
 https://luz-nextjs.vercel.app/ <br>
 https://sis-float.vercel.app/#/admin/dashboard <br>
@@ -79,6 +70,13 @@ https://www.programaviva.com.br/ <br>
 https://receitadevida.com.br/ <br>
 https://www.grupoalmah.com.br  <br>
 http://rjvideo.com.br/
+https://4rweb.github.io/mesa-de-bar/
+https://4rweb.github.io/
+https://4rweb.github.io/cardapio-kinpai-facebook/ <br>
+https://4rweb.github.io/web-studio-advanced/ <br>
+https://4rweb.github.io/rinnovaweb-intro/ <br>
+https://4rweb.github.io/LeKarmaMobile/ <br>
+https://4rweb.github.io/LeKarmaApp/ <br>
   
 ## Oficial Site
 https://www.4rweb.net
