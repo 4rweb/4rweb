@@ -55,8 +55,8 @@ Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Deve
 
 ## React
 https://luz-nextjs.vercel.app/ <br>
-https://sis-float.vercel.app/#/admin/dashboard <br>
-https://blathy.vercel.app/ <br>
+<!-- https://sis-float.vercel.app/#/admin/dashboard <br>
+https://blathy.vercel.app/ <br> -->
 https://mumu-generator.vercel.app/
   
 ## Angular
