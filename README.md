@@ -89,3 +89,8 @@ https://pt.everybodywiki.com/4RWeb
 ## Medium
 https://medium.com/@willdeschepper
   
+
+  
+  
+  
+  
