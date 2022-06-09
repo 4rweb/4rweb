@@ -6,21 +6,23 @@ CEO @4rweb.
 [![Linkedin Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willdeschepper/)](https://www.linkedin.com/in/willdeschepper/) 
 [![Gmail Badge](https://img.shields.io/badge/-wiliam@4rweb.net-2986cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiliam@4rweb.net)](mailto:wiliam@4rweb.net)
 
-Wiliam De Schepper é desenvolvedor criativo e Software Engineer na Float Health e com passagens em grandes empresas como McCCANN HEALTH, North Kingdom e também CEO da 4RWeb Interactive.
+Considero-me criativo, gosto de criar coisas e de solucionar problemas, gosto de desafios, não ficar no básico, me desafiar ao limite! Desde quando descobri como as coisas funcionam, principalmente as que envolvem tecnologia, escolhi aprender sobre elas e utilizar este conhecimento a meu favor! Gosto de conhecer coisas novas, mesmo que não envolva tecnologia, qualquer coisa que vem da natureza me inspira! 
 
-Tem experiência em todos os aspectos de desenvolvimento web e é especializado em Front-End, Design interativo, UI / UX, Motion Graphics, Animações, Gerenciamento de projetos, arquitetura e engenharia de softwares.
+Hoje, atuo como desenvolvedor criativo e Software Engineer na Float Health e com passagens em grandes empresas como McCCANN HEALTH, North Kingdom e também CEO da 4RWeb.
 
-Will supervisionou o desenvolvimento criativo e execução de mais de 100 projetos para algumas das principais empresas do mundo, incluindo Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC e Peugeot.
+Tenho experiência em todos os aspectos de desenvolvimento web e sou especializado em Front-End, Design interativo, UI / UX, Motion Graphics, Animações, Gerenciamento de projetos, arquitetura e engenharia de softwares.
 
-Especialidades técnicas: HTML5, CSS3, JQuery, React, Vue, Angular, Vue, IONIC, JavaScript, After Effects etc...
+Ajudei na execução e programação de mais de 100 projetos para algumas das principais empresas do mundo, incluindo Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC e Peugeot.
 
 //////////////////////////////////////////
 
-Wiliam De Schepper is a creative developer at FLOAT HEALTH, McCCANN HEALTH, CEO of 4RWeb Interactive. He has experience in all aspects of web development and specializes in Front-End, interactive Design, UI/UX, Motion Graphics, 3D Animation and video production.
+I think of myself as creative, I like creating things and solving problems, I like challenges, don't stay in the basics, defy me to the limit! Since when I discovered how things work, especially those involving technology, I chose to learn about them and use this knowledge to my advantage! I like to discover new things, even if it doesn't involve technology, anything that comes from nature inspires me!
 
-Will has overseen the creative development and execution of over 100 projects for some of the world’s leading companies, including Coke, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC, Peugeot.
+Today, I work as a creative developer and Software Engineer at Float Health and with stints at large companies such as McCCANN HEALTH, North Kingdom and also CEO of 4RWeb.
 
-Technical specialties: HTML5, CSS3, JQuery, React, Angular, Vue, JavaScript Development, After Effects an Front-End Development.
+I have experience in all aspects of web development and specialize in Front End, Interactive Design, UI/UX, Motion Graphics, Animations, Project Management, Software Architecture and Engineering.
+
+I helped execute and schedule over 100 projects for some of the world's leading companies, including Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures , Ultimate Catering, Rede Globo, Multishow, HSBC and Peugeot.
 
 
 ## Tech Stack
