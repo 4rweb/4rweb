@@ -1,6 +1,6 @@
 # Wiliam De Schepper
 
-CEO @4rweb.
+Software Engineer & Technical Lead at Float Health & CIO at 4RWeb | React & Vue | Front-end Specialist | Veeva Certified Developer
 
 [![Twitter Badge](https://img.shields.io/badge/-@4rweb-2986cc?style=flat-square&labelColor=2986cc&logo=twitter&logoColor=white&link=https://twitter.com/4rweb)](https://twitter.com/4rweb) 
 [![Linkedin Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willdeschepper/)](https://www.linkedin.com/in/willdeschepper/) 
