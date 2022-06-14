@@ -50,11 +50,6 @@ I helped execute and schedule over 100 projects for some of the world's leading 
 ---
 [![](https://visitcount.itsvg.in/api?id=4rweb&icon=5&color=12)](https://visitcount.itsvg.in)
 
-## My Gitlab Statistics
-<img align="center" src="https://raw.githubusercontent.com/4rweb/rinnovaweb-intro/main/gitlab2.png" width="100%"/>
-<small>*Não consegui trazer alguns projetos do GitLab para Github, então printei meu Contributions no Gitlab<small>
-
-
 ## React
 https://luz-nextjs.vercel.app/ <br>
 <!-- https://sis-float.vercel.app/#/admin/dashboard <br>
