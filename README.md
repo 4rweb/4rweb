@@ -6,7 +6,7 @@ IT Coordinator at <a href="https://floathealth.com.br/">Float Health</a> and CIO
 [![Linkedin Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willdeschepper/)](https://www.linkedin.com/in/willdeschepper/) 
 [![Gmail Badge](https://img.shields.io/badge/-wiliam@4rweb.net-2986cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiliam@4rweb.net)](mailto:wiliam@4rweb.net)
 
-Considero-me criativo, gosto de criar coisas e de solucionar problemas, gosto de desafios, não ficar no básico, me desafiar ao limite! Desde quando descobri como as coisas funcionam, principalmente as que envolvem tecnologia, escolhi aprender sobre elas e utilizar este conhecimento a meu favor! Gosto de conhecer coisas novas, mesmo que não envolva tecnologia, qualquer coisa que vem da natureza me inspira! 
+Sou uma pessoa criativa que gosta de resolver problemas desafiadores e superar expectativas. Tenho paixão por aprender sobre como as coisas funcionam, especialmente na área da tecnologia, mas também tenho interesse em explorar novos conhecimentos em todas as áreas. Acredito que a vida é uma jornada constante de aprendizado e sempre busco novos desafios para me desenvolver ainda mais. Quando me dedico a um projeto, coloco todo o meu esforço para alcançar os melhores resultados possíveis. Acredito que a criatividade é essencial para tornar a vida mais interessante e satisfatória, e sempre procuro maneiras de aplicá-la em minha vida.
 
 Hoje, atuo como desenvolvedor criativo e Software Engineer na Float Health e com passagens em grandes empresas como McCCANN HEALTH, North Kingdom e também CEO da 4RWeb.
 
@@ -16,7 +16,10 @@ Ajudei na execução e programação de mais de 100 projetos para algumas das pr
 
 //////////////////////////////////////////
 
-I think of myself as creative, I like creating things and solving problems, I like challenges, don't stay in the basics, defy me to the limit! Since when I discovered how things work, especially those involving technology, I chose to learn about them and use this knowledge to my advantage! I like to discover new things, even if it doesn't involve technology, anything that comes from nature inspires me!
+I consider myself to be a highly creative individual who thrives on solving complex problems and going beyond the norm. I love a good challenge and am never satisfied with the status quo. Learning how things work has always fascinated me, especially in the realm of technology, and I have made it a priority to educate myself in this area and apply it to my advantage. However, I am not limited to technology; I am also deeply interested in exploring all aspects of knowledge, particularly those that involve the wonders of nature.
+
+To me, life is a constant journey of growth, and I am always seeking new opportunities to challenge myself and broaden my horizons. When I commit myself to a project, I give it my all and strive for the highest level of excellence. Creativity is the key to unlocking the full potential of life, and I am always looking for innovative ways to apply it to my daily existence.
+
 
 Today, I work as a creative developer and Software Engineer at Float Health and with stints at large companies such as McCCANN HEALTH, North Kingdom and also CEO of 4RWeb.
 
@@ -96,20 +99,23 @@ I helped execute and schedule over 100 projects for some of the world's leading 
   </p>
 <br>
 
-
-![Will Activity Graph](https://activity-graph.herokuapp.com/graph?username=4rweb&custom_title=Will%20Trips's%20Contribution%20Graph&theme=tokyonight&bg_color=1a1b27&hide_border=true&line=628fdb&point=be91f2)
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![Will Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=4rweb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=4rweb&icon=5&color=12)](https://visitcount.itsvg.in)
 
-## React
-https://luz-nextjs.vercel.app/ <br>
-https://mumu-generator.vercel.app/
 
-<!-- https://sis-float.vercel.app/#/admin/dashboard <br>
-https://blathy.vercel.app/ <br> -->
+
+## React
+https://masterclassdigitaldesign.com.br/ <br>
+https://three4.academy <br>
+https://luz-nextjs.vercel.app/ <br>
+https://mumu-generator.vercel.app/ <br>
+https://blathy.vercel.app/ <br>
+
+<!-- https://sis-float.vercel.app
+/#/admin/dashboard <br>
+ <br> -->
   
 ## Angular
 https://fibromialgiadiagnostico.com.br/ <br>
