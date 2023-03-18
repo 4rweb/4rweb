@@ -101,13 +101,12 @@ I helped execute and schedule over 100 projects for some of the world's leading 
 
 [![Will Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=4rweb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-[![](https://visitcount.itsvg.in/api?id=4rweb&icon=5&color=12)](https://visitcount.itsvg.in)
-
+---------
+[![](https://visitcount.itsvg.in/api?id=4RWeb&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+---------
 
 ## Meme Of Day<br>
 <img src='https://random-memer-production-132b.up.railway.app' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 
 
 ## React
