@@ -116,6 +116,13 @@ https://luz-nextjs.vercel.app/ <br>
 https://mumu-generator.vercel.app/ <br>
 https://blathy.vercel.app/ <br>
 
+## Flash
+https://flashsites-eight.vercel.app/ <br>
+https://cinamaker.vercel.app/ <br>
+https://pasquine-coat.vercel.app/ <br>
+https://loren-pascale.vercel.app/ <br>
+https://art-ongle.vercel.app/ <br>
+
 <!-- https://sis-float.vercel.app
 /#/admin/dashboard <br>
  <br> -->
