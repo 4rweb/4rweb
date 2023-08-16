@@ -12,7 +12,7 @@ Hoje, atuo como desenvolvedor criativo e Software Engineer na Float Health e com
 
 Tenho experiência em todos os aspectos de desenvolvimento web e sou especializado em Front-End, Design interativo, UI / UX, Motion Graphics, Animações, Gerenciamento de projetos, arquitetura e engenharia de softwares.
 
-Ajudei na execução e programação de mais de 100 projetos para algumas das principais empresas do mundo, incluindo Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC e Peugeot.
+Ajudei na execução e programação de mais de 300 projetos para algumas das principais empresas do mundo, incluindo Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC e Peugeot.
 
 //////////////////////////////////////////
 
@@ -25,7 +25,7 @@ Today, I work as a creative developer and Software Engineer at Float Health and 
 
 I have experience in all aspects of web development and specialize in Front End, Interactive Design, UI/UX, Motion Graphics, Animations, Project Management, Software Architecture and Engineering.
 
-I helped execute and schedule over 100 projects for some of the world's leading companies, including Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures , Ultimate Catering, Rede Globo, Multishow, HSBC and Peugeot.
+I helped execute and schedule over 300 projects for some of the world's leading companies, including Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures , Ultimate Catering, Rede Globo, Multishow, HSBC and Peugeot.
 
 
 ## Tech Stack
