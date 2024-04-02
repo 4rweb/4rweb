@@ -6,7 +6,7 @@ IT Coordinator at <a href="https://floathealth.com.br/">Float Health</a> and CIO
 [![Linkedin Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willdeschepper/)](https://www.linkedin.com/in/willdeschepper/) 
 [![Gmail Badge](https://img.shields.io/badge/-wiliam@4rweb.net-2986cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiliam@4rweb.net)](mailto:wiliam@4rweb.net)
 
-Sou uma pessoa criativa que gosta de resolver problemas desafiadores e superar expectativas. Tenho paixão por aprender sobre como as coisas funcionam, especialmente na área da tecnologia, mas também tenho interesse em explorar novos conhecimentos em todas as áreas. Acredito que a vida é uma jornada constante de aprendizado e sempre busco novos desafios para me desenvolver ainda mais. Quando me dedico a um projeto, coloco todo o meu esforço para alcançar os melhores resultados possíveis. Acredito que a criatividade é essencial para tornar a vida mais interessante e satisfatória, e sempre procuro maneiras de aplicá-la em minha vida.
+Sou uma pessoa criativa que gosta de resolver problemas desafiadores e superar expectativas. Tenho fascínio por aprender sobre como as coisas funcionam, especialmente na área da tecnologia, mas também tenho interesse em explorar novos conhecimentos em todas as áreas. Acredito que a vida é uma jornada constante de aprendizado e sempre busco novos desafios para me desenvolver ainda mais. Quando me dedico a um projeto, coloco todo o meu esforço para alcançar os melhores resultados possíveis. Acredito que a criatividade é essencial para tornar a vida mais interessante e satisfatória, e sempre procuro maneiras de aplicá-la em minha vida.
 
 Hoje, atuo como desenvolvedor criativo e Software Engineer na Float Health e com passagens em grandes empresas como McCCANN HEALTH, North Kingdom e também CEO da 4RWeb.
 
@@ -16,7 +16,7 @@ Ajudei na execução e programação de mais de 300 projetos para algumas das pr
 
 //////////////////////////////////////////
 
-I consider myself to be a highly creative individual who thrives on solving complex problems and going beyond the norm. I love a good challenge and am never satisfied with the status quo. Learning how things work has always fascinated me, especially in the realm of technology, and I have made it a priority to educate myself in this area and apply it to my advantage. However, I am not limited to technology; I am also deeply interested in exploring all aspects of knowledge, particularly those that involve the wonders of nature.
+I consider myself to be a highly creative individual who thrives on solving complex problems and going beyond the norm. I fascinate a good challenge and am never satisfied with the status quo. Learning how things work has always fascinated me, especially in the realm of technology, and I have made it a priority to educate myself in this area and apply it to my advantage. However, I am not limited to technology; I am also deeply interested in exploring all aspects of knowledge, particularly those that involve the wonders of nature.
 
 To me, life is a constant journey of growth, and I am always seeking new opportunities to challenge myself and broaden my horizons. When I commit myself to a project, I give it my all and strive for the highest level of excellence. Creativity is the key to unlocking the full potential of life, and I am always looking for innovative ways to apply it to my daily existence.
 
