@@ -1,6 +1,6 @@
 # Wiliam De Schepper
 
-IT Coordinator at <a href="https://floathealth.com.br/">Float Health</a> and CIO & Product Designer at <a href="https://4rweb.net">4RWeb</a> | React & Vue | Front-end Specialist | Veeva Certified Developer | LinkedIn Creator | Content Creator @Three4 Academy
+IT Coordinator at <a href="https://floathealth.com.br/">Float Health</a> and CIO & Product Designer at <a href="https://4rweb.net">4RWeb</a> | React & Vue & Angular | Front-end Specialist | Veeva Certified Developer | LinkedIn Creator | Content Creator @Three4 Academy
 
 [![Twitter Badge](https://img.shields.io/badge/-@4rweb-2986cc?style=flat-square&labelColor=2986cc&logo=twitter&logoColor=white&link=https://twitter.com/4rweb)](https://twitter.com/4rweb) 
 [![Linkedin Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willdeschepper/)](https://www.linkedin.com/in/willdeschepper/) 
