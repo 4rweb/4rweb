@@ -4,7 +4,6 @@ IT Coordinator at <a href="https://floathealth.com.br/">Float Health</a> and CIO
 
 [![Twitter Badge](https://img.shields.io/badge/-@4rweb-2986cc?style=flat-square&labelColor=2986cc&logo=twitter&logoColor=white&link=https://twitter.com/4rweb)](https://twitter.com/4rweb) 
 [![Linkedin Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willdeschepper/)](https://www.linkedin.com/in/willdeschepper/) 
-[![Gmail Badge](https://img.shields.io/badge/-wiliam@4rweb.net-2986cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiliam@4rweb.net)](mailto:wiliam@4rweb.net)
 
 Sou uma pessoa criativa que gosta de resolver problemas desafiadores e superar expectativas. Tenho fascínio por aprender sobre como as coisas funcionam, especialmente na área da tecnologia, mas também tenho interesse em explorar novos conhecimentos em todas as áreas. Acredito que a vida é uma jornada constante de aprendizado e sempre busco novos desafios para me desenvolver ainda mais. Quando me dedico a um projeto, coloco todo o meu esforço para alcançar os melhores resultados possíveis. Acredito que a criatividade é essencial para tornar a vida mais interessante e satisfatória, e sempre procuro maneiras de aplicá-la em minha vida.
 
