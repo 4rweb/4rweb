@@ -81,7 +81,7 @@ I helped execute and schedule over 300 projects for some of the world's leading 
   </p>
 <br>
 
-[![Will Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=4rweb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Will Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4rweb&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph
 
 ---------
 [![](https://visitcount.itsvg.in/api?id=4RWeb&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
