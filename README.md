@@ -89,8 +89,8 @@ I helped execute and schedule over 300 projects for some of the world's leading 
 
 
 ## React
-https://masterclassdigitaldesign.com.br/ <br>
-https://three4.academy <br>
+[https://masterclassdigitaldesign.com.br/](https://masterclassdigitaldesign.vercel.app/) <br>
+[https://three4.academy](https://three4-front.vercel.app/) <br>
 https://luz-nextjs.vercel.app/ <br>
 https://mumu-generator.vercel.app/ <br>
 https://blathy.vercel.app/ <br>
