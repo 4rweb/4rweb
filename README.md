@@ -77,9 +77,10 @@ I helped execute and schedule over 300 projects for some of the world's leading 
 <br/>
   <p float="left">
   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=4rweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="4rweb" />
-  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=4rweb&theme=tokyonight&hide_border=false" alt="4rweb" />
   </p>
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=4rweb&theme=tokyonight&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Will Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4rweb&theme=github-compact)
 
