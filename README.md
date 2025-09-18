@@ -76,7 +76,7 @@ I helped execute and schedule over 300 projects for some of the world's leading 
 
 <br/>
   <p float="left">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=4rweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="4rweb" />
+  <img width="500px" src="https://github-readme-stats-4rweb.vercel.app/api?username=4rweb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="4rweb" />
   </p>
 <br>
 
