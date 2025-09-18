@@ -80,7 +80,7 @@ I helped execute and schedule over 300 projects for some of the world's leading 
   </p>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=4rweb&theme=tokyonight&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-4rweb.vercel.app?user=4rweb&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Will Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=4rweb&theme=github-compact)
 
