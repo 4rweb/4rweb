@@ -5,26 +5,11 @@ Tech Lead at <a href="https://floathealth.com.br/">Float Health</a> and CIO & Pr
 [![Twitter Badge](https://img.shields.io/badge/-@4rweb-2986cc?style=flat-square&labelColor=2986cc&logo=twitter&logoColor=white&link=https://twitter.com/4rweb)](https://twitter.com/4rweb) 
 [![Linkedin Badge](https://img.shields.io/badge/-willdeschepper-2986cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willdeschepper/)](https://www.linkedin.com/in/willdeschepper/) 
 
-Sou uma pessoa criativa que gosta de resolver problemas desafiadores e superar expectativas. Tenho fascínio por aprender sobre como as coisas funcionam, especialmente na área da tecnologia, mas também tenho interesse em explorar novos conhecimentos em todas as áreas. Acredito que a vida é uma jornada constante de aprendizado e sempre busco novos desafios para me desenvolver ainda mais. Quando me dedico a um projeto, coloco todo o meu esforço para alcançar os melhores resultados possíveis. Acredito que a criatividade é essencial para tornar a vida mais interessante e satisfatória, e sempre procuro maneiras de aplicá-la em minha vida.
-
-Hoje, atuo como desenvolvedor criativo e Software Engineer na Float Health e com passagens em grandes empresas como McCCANN HEALTH, North Kingdom e também CEO da 4RWeb.
-
-Tenho experiência em todos os aspectos de desenvolvimento web e sou especializado em Front-End, Design interativo, UI / UX, Motion Graphics, Animações, Gerenciamento de projetos, arquitetura e engenharia de softwares.
-
-Ajudei na execução e programação de mais de 300 projetos para algumas das principais empresas do mundo, incluindo Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures, Ultimate Catering, Rede Globo, Multishow, HSBC e Peugeot.
+Senior Frontend Engineer e desenvolvedor fullstack com mais de 20 anos de experiência, especializado em React, TypeScript e arquiteturas Node.js para o setor de saúde e pharma. Atualmente responsável pela arquitetura e entrega do AURA CRM na Float Health — plataforma SaaS de inteligência comercial para a indústria farmacêutica. Veeva Certified Developer com histórico em idetailing, MSL tools e sistemas de visita médica. Criador do MuAiFlow — framework open source de workflow multi-AI publicado no npm, com CLI própria, extensão para VS Code e sistema de skills instaláveis. Uso Claude Code, OpenAI e outras ferramentas de AI no desenvolvimento diário. Ao longo da carreira, executei 300+ projetos para Coca-Cola, Johnson & Johnson, L'Oréal, Pfizer, Novartis, Disney, Globo e outras marcas globais — passando por McCann Health e North Kingdom (Suécia), com experiências em França e Suíça. CEO e fundador da 4RWeb desde 2006.
 
 //////////////////////////////////////////
 
-I consider myself to be a highly creative individual who thrives on solving complex problems and going beyond the norm. I fascinate a good challenge and am never satisfied with the status quo. Learning how things work has always fascinated me, especially in the realm of technology, and I have made it a priority to educate myself in this area and apply it to my advantage. However, I am not limited to technology; I am also deeply interested in exploring all aspects of knowledge, particularly those that involve the wonders of nature.
-
-To me, life is a constant journey of growth, and I am always seeking new opportunities to challenge myself and broaden my horizons. When I commit myself to a project, I give it my all and strive for the highest level of excellence. Creativity is the key to unlocking the full potential of life, and I am always looking for innovative ways to apply it to my daily existence.
-
-
-Today, I work as a creative developer and Software Engineer at Float Health and with stints at large companies such as McCCANN HEALTH, North Kingdom and also CEO of 4RWeb.
-
-I have experience in all aspects of web development and specialize in Front End, Interactive Design, UI/UX, Motion Graphics, Animations, Project Management, Software Architecture and Engineering.
-
-I helped execute and schedule over 300 projects for some of the world's leading companies, including Coca-Cola, GlaxoSmithKline, Merck, Sanofi, Pfizer, Aspen, GE Healthcare, Johnson & Johnson, L'Oréal, Novartis, Janssen, Fly Pictures , Ultimate Catering, Rede Globo, Multishow, HSBC and Peugeot.
+Senior Frontend Engineer and fullstack developer with 20+ years of experience, specialized in React, TypeScript, and Node.js architectures for the healthcare and pharma industry. Currently responsible for the architecture and delivery of AURA CRM at Float Health — a commercial intelligence SaaS platform for the pharmaceutical industry. Veeva Certified Developer with a strong track record in idetailing, MSL tools, and HCP engagement systems. Creator of MuAiFlow — an open source multi-AI workflow framework published on npm, with its own CLI, VS Code extension, and installable skills system. I use Claude Code, OpenAI, and other AI tools daily in my development workflow. Over my career, I have delivered 300+ projects for Coca-Cola, Johnson & Johnson, L'Oréal, Pfizer, Novartis, Disney, Globo, and other global brands — across agencies like McCann Health and North Kingdom (Sweden), with experience in France and Switzerland. Founder and CEO of 4RWeb since 2006.
 
 
 
