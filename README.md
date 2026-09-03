@@ -30,7 +30,9 @@ O produto começou com um MVP controlado de 10 pacientes e 10 enfermeiros e evol
 
 **Stack original:** `React Native` `React Navigation` `Redux/Redux-Saga` `AsyncStorage` `Node.js` `REST APIs` `Jest`
 
-[**Explorar o protótipo navegável →**](https://native-apps-three.vercel.app/memoria-viva/)
+O aplicativo original não está mais disponível nas lojas. Para apresentar suas telas e fluxos, disponibilizo uma demonstração interativa por meio de um protótipo navegável.
+
+[**Ver demonstração interativa →**](https://native-apps-three.vercel.app/memoria-viva/)
 
 ### [MuAiFlow](https://github.com/willdeschepper/MuAiFlow)
 
@@ -138,16 +140,16 @@ Arquitetura offline-first, persistência local, sincronização com APIs e publi
 
 ## Portfólio
 
-### Apps mobile e experiências interativas
+### Aplicativos mobile
 
-Demonstrações web e protótipos navegáveis dos projetos, disponíveis diretamente no navegador.
+Aplicativos que desenvolvi e que foram publicados nas lojas. Como hoje não estão mais disponíveis para download, disponibilizo demonstrações web e protótipos navegáveis para apresentar suas interfaces e fluxos.
 
 | Projeto | Demonstração |
 | --- | --- |
-| **MemoriaViva** | [Explorar protótipo navegável](https://native-apps-three.vercel.app/memoria-viva/) — experiência do app de apoio a cuidadores de pacientes com Alzheimer. |
+| **MemoriaViva** | [Ver demonstração interativa](https://native-apps-three.vercel.app/memoria-viva/) — experiência do app de apoio a cuidadores de pacientes com Alzheimer. |
 | **HER2** | [Abrir demonstração web](https://native-apps-three.vercel.app/her2/) — interface interativa com seleção de características de perfis clínicos. |
-| **Lanxess** | [Explorar protótipo navegável](https://native-apps-three.vercel.app/lanxess/) |
-| **Tarja Rosa** | [Explorar protótipo navegável](https://native-apps-three.vercel.app/tarja-rosa/) |
+| **Lanxess** | [Ver demonstração interativa](https://native-apps-three.vercel.app/lanxess/) |
+| **Tarja Rosa** | [Ver demonstração interativa](https://native-apps-three.vercel.app/tarja-rosa/) |
 
 ### React / Next.js
 
